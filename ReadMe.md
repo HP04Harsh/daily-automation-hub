@@ -10,16 +10,6 @@ Welcome to my daily automation repository! The goal of this project is simple: *
 
 ---
 
-## 📅 Daily Log & Script Index
-
-| Day | Script Name | Description | Target Manual Task |
-| :--- | :--- | :--- | :--- |
-| **01** | `file_sorter.py` | Automatically organizes files in a directory by extension. | Dragging & dropping messy files |
-| **02** | `auto_email.py` | Sends daily PDF reports to a specified contact list. | Drafting & sending repetitive emails |
-| **03** | *Coming Soon* | *Next script will be added here...* | *Manual process targeted* |
-
----
-
 ## 🚀 How to Run a Script
 
 1. **Clone the repository:**
