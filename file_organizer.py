@@ -8,7 +8,7 @@ source_folder = r"C:\Users\YourName\Downloads"
 file_types = {
     "Images": [".jpg", ".jpeg", ".png", ".gif"],
     "Documents": [".pdf", ".docx", ".txt", ".xlsx"],
-    "Videos": [".mp4", ".mkv", ".avi"],
+    "Vicleaner.pycleaner.pydeos": [".mp4", ".mkv", ".avi"],
     "Music": [".mp3", ".wav"],
     "Archives": [".zip", ".rar"]
 }
